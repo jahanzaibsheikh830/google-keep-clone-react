@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/google-keep-clone-react/static/css/main.062001f6.chunk.css",
+    "main.js": "/google-keep-clone-react/static/js/main.6dde5f31.chunk.js",
+    "main.js.map": "/google-keep-clone-react/static/js/main.6dde5f31.chunk.js.map",
+    "runtime-main.js": "/google-keep-clone-react/static/js/runtime-main.73eb29f4.js",
+    "runtime-main.js.map": "/google-keep-clone-react/static/js/runtime-main.73eb29f4.js.map",
+    "static/js/2.39e3ab93.chunk.js": "/google-keep-clone-react/static/js/2.39e3ab93.chunk.js",
+    "static/js/2.39e3ab93.chunk.js.map": "/google-keep-clone-react/static/js/2.39e3ab93.chunk.js.map",
+    "index.html": "/google-keep-clone-react/index.html",
+    "static/css/main.062001f6.chunk.css.map": "/google-keep-clone-react/static/css/main.062001f6.chunk.css.map",
+    "static/js/2.39e3ab93.chunk.js.LICENSE.txt": "/google-keep-clone-react/static/js/2.39e3ab93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73eb29f4.js",
+    "static/js/2.39e3ab93.chunk.js",
+    "static/css/main.062001f6.chunk.css",
+    "static/js/main.6dde5f31.chunk.js"
+  ]
+}
